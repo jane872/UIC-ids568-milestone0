@@ -11,3 +11,6 @@ This project is a milestone task for Module 1 of the MLOps course. The core obje
 ```bash
 git clone https://github.com/jane872/UIC-ids568-milestone0.git
 cd UIC-ids568-milestone0
+
+
+[![MLOps Milestone 0 CI](https://github.com/jane872/UIC-ids568-milestone0/actions/workflows/ci.yml/badge.svg)](https://github.com/jane872/UIC-ids568-milestone0/actions/workflows/ci.yml)
